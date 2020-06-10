@@ -139,7 +139,7 @@ function initTheme() {
             if (typeof pendingPromise === "object") pendingPromise = browser.runtime.getPlatformInfo();
 
             pendingPromise.then(platformInfo => {
-                themeOptions.accentColor = platformInfo.os === "win" ? "-moz-win-frame" : "#505050";
+                themeOptions.accentColor = platformInfo.os === "win" ? "-moz-win-accentcolor" : "#505050";
             });
         }
         // Default highlight color
