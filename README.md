@@ -109,5 +109,4 @@ For more information about what `userChrome.css` is, see the [website for it](ht
 Please submit issues or suggestions to the [Issues page on the GitHub repository](https://github.com/spikespaz/Firefox-NativeDark/issues).
 
 
-HI
 [<sub>Shield badges provided by Shields.io.</sub>](https://shields.io)
